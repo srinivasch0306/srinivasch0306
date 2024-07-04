@@ -3,6 +3,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=srinivasch0306&label=Profile%20views&color=0e75b6&style=flat)
 
 **Bridging the Gap: A Software Development Student's Journey to Master**
+- **🌱 I’m currently dev**
+
+
 
 ## 📫 How to reach me
 - **Phone**: +91 7353920094
