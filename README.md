@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=srinivasch0306&label=Profile%20views&color=0e75b6&style=flat)
 
-Passionate software development student proficient in Python, C++, MySQL, and DevOps, eager to apply technology to tackle real-world problems.
+**Bridging the Gap: A Software Development Student's Journey to Master**
 
 ## 📫 How to reach me
 - **Phone**: +91 7353920094
