@@ -8,9 +8,13 @@
 
 
 ## 📫 How to reach me
-- **Phone**: +91 7353920094
-- **Email**: [srinivasch.mca22@rvce.edu.in](mailto:srinivasch.mca22@rvce.edu.in)
-- **LinkedIn**: [Srinivas Ch](https://www.linkedin.com/in/srinivas-ch-0725282a1/)
+<p align="left">
+  <a href="tel:+917353920094"><img src="https://img.icons8.com/fluency/48/000000/phone.png" alt="Phone" width="40" height="40"/></a> +91 7353920094
+  <br>
+  <a href="mailto:srinivasch.mca22@rvce.edu.in"><img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email" width="40" height="40"/></a> [srinivasch.mca22@rvce.edu.in](mailto:srinivasch.mca22@rvce.edu.in)
+  <br>
+  <a href="https://www.linkedin.com/in/srinivas-ch-0725282a1/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a> [Srinivas Ch](https://www.linkedin.com/in/srinivas-ch-0725282a1/)
+</p>
 
 ### 🛠️ Languages and Tools
 
