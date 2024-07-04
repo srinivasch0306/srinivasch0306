@@ -1,6 +1,6 @@
 # Hi 👋, I'm Srinivas Ch
 
-![Profile views](https://gpvc.arturio.dev/srinivasch0306)
+![Profile views](https://komarev.com/ghpvc/?username=srinivasch0306&label=Profile%20views&color=0e75b6&style=flat)
 
 Passionate software development student proficient in Python, C++, MySQL, and DevOps, eager to apply technology to tackle real-world problems.
 
