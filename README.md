@@ -30,6 +30,7 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasch0306&layout=compact&theme=default)                 ![Srinivas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinivasch0306&show_icons=true&theme=default)               ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srinivasch0306&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasch0306&layout=compact&theme=default) &nbsp; &nbsp; ![Srinivas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinivasch0306&show_icons=true&theme=default) &nbsp; &nbsp; ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srinivasch0306&theme=default)
+
 
 
