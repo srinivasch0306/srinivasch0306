@@ -9,42 +9,19 @@ Passionate software development student proficient in Python, C++, MySQL, and De
 - **Email**: [srinivasch.mca22@rvce.edu.in](mailto:srinivasch.mca22@rvce.edu.in)
 - **LinkedIn**: [Srinivas Ch](https://www.linkedin.com/in/srinivas-ch-0725282a1/)
 
-## 🛠 Technical Skills
+### 🛠️ Languages and Tools
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- **Programming Languages**: Python, C++, Java
-- **DevOps Tools**: Docker, Linux, Computer Networks
-- **Database Systems**: MySQL, MongoDB
-- **Web Development Tools**: HTML, CSS, JavaScript
-
-## 💻 Projects
-
-### E-commerce Website Using Django
-- Developed a dynamic e-commerce platform using Django framework, HTML, CSS, JavaScript, and Bootstrap for front-end design, ensuring responsiveness across various devices and browsers.
-- Integrated MySQL database for efficient data storage and management, enabling seamless retrieval and manipulation of product information, user data, and order details within the e-commerce website.
-
-### Lane Detection and Tracking
-- Developed a highly accurate lane detection pipeline using advanced computer vision techniques, including edge detection, Hough transform, and line extrapolation algorithms.
-- Utilized the OpenCV library and Python programming language to implement color selection, region of interest masking, and filtering mechanisms based on line slope thresholds and line length.
-
-### HR Data Analysis Using Power BI
-- Understood business requirements in the BI context and designed data models to transform raw data into meaningful insights.
-- Developed visual reports, key performance indicators (KPI) scorecards, and dashboards using Power BI desktop.
-
-## 🎓 Education
-
-- **Master of Computer Applications**
-  - RV College of Engineering (2022-24)
-  - CGPA: 8.05
-
-- **Bachelor of Science**
-  - The National College (2018-2021)
-  - CGPA: 6.62
-
-## 🏆 Achievements
-
-- Published a research paper on advancements of computer network
-  - **Title**: Advancements And Analysis Of Cellular Networks A Comprehensive Research Study
-  - **Paper ID**: NCRTCA-PID-433
 
 ## 📊 GitHub Stats
 
