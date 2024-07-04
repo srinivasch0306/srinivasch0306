@@ -3,12 +3,11 @@
 ![Profile views](https://komarev.com/ghpvc/?username=srinivasch0306&label=Profile%20views&color=0e75b6&style=flat)
 
 **Bridging the Gap: A Software Development Student's Journey to Master**
-- **🌱 I’m currently Learning dev part**
+- **🌱 I’m currently Learning dev**
 
 
 
 ## 📫 How to reach me
-- **Phone**: +91 7353920094
 - **Email**: [srinivasch.mca22@rvce.edu.in](mailto:srinivasch.mca22@rvce.edu.in)
 - **LinkedIn**: [Srinivas Ch](https://www.linkedin.com/in/srinivas-ch-0725282a1/)
 
@@ -31,12 +30,12 @@
 
 ## 📊 GitHub Stats
 
-![Srinivas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinivasch0306&show_icons=true&theme=radical)
+![Srinivas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinivasch0306&show_icons=true&theme=default)
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srinivasch0306&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srinivasch0306&theme=default)
 
 ## 📈 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasch0306&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasch0306&layout=compact&theme=default)
